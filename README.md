@@ -47,7 +47,7 @@ Educational institutions often identify at-risk students too late — typically 
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.jpg)
+![Dashboard Screenshot](Dashboard_Image.jpg)
 
 The dashboard includes:
 - KPI cards (Total Students, Dropout Rate, Total Dropouts, Courses Analyzed)
