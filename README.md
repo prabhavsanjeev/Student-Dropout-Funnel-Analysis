@@ -58,3 +58,20 @@ The dashboard includes:
 ---
 
 ## 📁 Repository Structure
+
+├── data/
+│ ├── students_dropout_academic_success.csv # Raw dataset
+│ └── cleaned_student_data.csv # Cleaned dataset used for analysis
+├── notebooks/
+│ └── 01_data_exploration.ipynb # Python cleaning & EDA
+├── sql/
+│ ├── queries.sql # All SQL queries
+│ └── student_dropout.db # SQLite database
+├── student_dropout_dashboard.pbix # Power BI dashboard
+└── README.md
+---
+
+## 📂 Dataset Source
+
+[Kaggle — Predict Students' Dropout and Academic Success](https://www.kaggle.com/datasets/adilshamim8/predict-students-dropout-and-academic-success)
+
